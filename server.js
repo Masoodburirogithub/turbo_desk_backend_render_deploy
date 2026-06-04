@@ -117,7 +117,7 @@ app.get('/', (req, res) => {
   res.json({
     message: 'Turbo Desk API is running 🚀',
     health: '/api/health',
-    docs: 'https://aurachronsys.com'
+    docs: 'https://turbodesksolutions.com'
   });
 });
 
