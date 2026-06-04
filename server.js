@@ -37,8 +37,8 @@ app.use(cors({
     'http://localhost:3001',
     'http://localhost:4173',
     'http://localhost:5173',
-    'https://aurachronsys.com',
-    'https://www.aurachronsys.com',
+    'https://turbodesksolutions.com',
+    'https://www.turbodesksolutions.com',
     process.env.FRONTEND_URL
   ].filter(Boolean),
   credentials: true

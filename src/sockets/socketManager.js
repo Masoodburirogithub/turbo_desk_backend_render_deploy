@@ -11,8 +11,8 @@ const buildAllowedOrigins = () => {
     'http://localhost:3001',
     'http://localhost:4173',
     'http://localhost:5173',
-    'https://aurachronsys.com',
-    'https://www.aurachronsys.com',
+    'https://turbodesksolutions.com',
+    'https://www.turbodesksolutions.com',
   ];
 
   // Add deploy-time frontend URL if provided
